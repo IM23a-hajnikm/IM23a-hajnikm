@@ -36,7 +36,7 @@
 
 ## 🎓 Certificates & Courses  
 
-- 📌 **BZ & ZU** – Vertiefte Module in Applikationsentwicklung, Datenmodellierung, Cloud-Architekturen  
+- 📌 **BZZ** – Vertiefte Module in Applikationsentwicklung, Datenmodellierung, Cloud-Architekturen  
 - 📌 **Professional Scrum Product Owner I** (09/2024)  
 - 📌 **Professional Scrum Master I** (09/2024)  
 - 📌 **Udemy: Modern JavaScript** (03/2023)  
@@ -47,7 +47,7 @@
 ## 🌍 Languages  
 
 - 🇩🇪 Deutsch (Muttersprache)  
-- 🇬🇧 English (Fliessend, B2)  
+- 🇬🇧 English (Fliessend, 11 Jahre Sprachkentnisse)  
 - 🇫🇷 Französisch (B1)  
 - 🇸🇰 Slowakisch (Muttersprache)  
 - 🇨🇿 Tschechisch (Muttersprache)  
@@ -65,7 +65,7 @@
 ## 📫 Connect with Me  
 
 📍 Switzerland  
-📧 [mhajnik7@gmail.com](mailto:mhajnik7@gmail.com)  
+📧 [mhajnik7@gmail.com](mailto:mhajnik77@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/martin-hajnik)  
 
 ---
