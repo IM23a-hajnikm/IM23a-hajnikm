@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Completed Applikationsentwicklung EFZ with BM  
+- 🎓 3rd year Applikationsentwicklung EFZ with BM  
 - 🔧 Strong in **problem solving, analytical thinking, teamwork, and time management**  
 - 🌱 Always learning and improving my skills in **modern web development and software engineering**  
 
@@ -31,6 +31,9 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=F7C922)](https://miro.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 
 ---
@@ -73,7 +76,6 @@
 
 ## 📫 Connect with Me  
 
-📍 Switzerland  
 📧 [mhajnik7@gmail.com](mailto:mhajnik77@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/martin-hajnik)  
 
